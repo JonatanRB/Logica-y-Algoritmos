@@ -1,6 +1,6 @@
 const productos = [
     { nombre: "Mesa de escritorio", precio: 1500, categoria: "Muebles" },
-    { nombre: "Camiseta", precio: 50, categoria: "Ropa" },
+    { nombre: "Camiseta Estampada", precio: 50, categoria: "Ropa" },
     { nombre: "Tenis", precio: 600, categoria: "Calzado" },
     { nombre: "Clean Code", precio: 554, categoria: "Libros" },
     { nombre: "Auriculares", precio: 99, categoria:"Electrónica" },
